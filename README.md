@@ -1,0 +1,7 @@
+# Zettai
+
+## Package
+```
+./gradlew distZip
+```
+
